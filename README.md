@@ -1,25 +1,25 @@
 # Metabolism Science at a Turning Point: Field Evolution, Methodological Lock-ins, and Sustainability Framings
 
-Mariana Brüning-González$^{a,b}$ , José Ignacio Arroyoc$^{d,e} , Pablo A. Marquet$^{f,c,d,g} , Horacio
-Samaniegob$^{g,∗}
+Mariana Brüning-González$^{a,b}$ , José Ignacio Arroyoc$^{d,e}$ , Pablo A. Marquet$^{f,c,d,g}$ , Horacio
+Samaniegob$^{g,∗}$
 
-$^{a} Programa de Doctorado en Ciencias mención Ecologı́a y Evolución, Escuela de Graduados, Facultad de Ciencias, Universidad Austral de Chile, Valdivia, Chile.
+$^{a}$ Programa de Doctorado en Ciencias mención Ecologı́a y Evolución, Escuela de Graduados, Facultad de Ciencias, Universidad Austral de Chile, Valdivia, Chile.
 
-$^{b} Laboratorio de Ecoinformática, Instituto de Conservación, Biodiversidad y Territorio, Universidad Austral deChile, Campus Isla Teja, Valdivia, Chile.
+$^{b}$ Laboratorio de Ecoinformática, Instituto de Conservación, Biodiversidad y Territorio, Universidad Austral deChile, Campus Isla Teja, Valdivia, Chile.
 
-$^{c} Santa Fe Institute, Santa Fe, NM 87501, USA.
+$^{c}$ Santa Fe Institute, Santa Fe, NM 87501, USA.
 
-$^{d} Center for Mathematical Modeling, Santiago, Chile.
+$^{d}$ Center for Mathematical Modeling, Santiago, Chile.
 
-$^{e} Department of Environmental Studies, New York University.
+$^{e}$ Department of Environmental Studies, New York University.
 
-$^{f} Facultad de Ciencias Biológicas, P. Universidad Católica de Chile, Alameda 340, Santiago, Chile.
+$^{f}$ Facultad de Ciencias Biológicas, P. Universidad Católica de Chile, Alameda 340, Santiago, Chile.
 
-$^{g} Instituto de Sistemas Complejos de Valparaı́so (ISCV), Subida Artillerı́a 470, Valparaı́so, Chile.
+$^{g}$ Instituto de Sistemas Complejos de Valparaı́so (ISCV), Subida Artillerı́a 470, Valparaı́so, Chile.
 
-$^{h} Centro de Cambio Global UC.
+$^{h}$ Centro de Cambio Global UC.
 
-$^{*} Corresponding author (horacio@ecoinformatica.cl)
+$^{*}$ Corresponding author (horacio@ecoinformatica.cl)
 
 ## Abstract
 
