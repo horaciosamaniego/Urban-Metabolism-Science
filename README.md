@@ -1,7 +1,7 @@
 # Metabolism Science at a Turning Point: Field Evolution, Methodological Lock-ins, and Sustainability Framings
 
 Mariana Brüning-González $^{a,b}$ , José Ignacio Arroyo $^{c,d,e}$ , Pablo A. Marquet $^{f,c,d,g}$ , Horacio
-Samaniegob $^{g,∗}$
+Samaniego $^{b,g,∗}$
 
 $^{a}$ Programa de Doctorado en Ciencias mención Ecologı́a y Evolución, Escuela de Graduados, Facultad de Ciencias, Universidad Austral de Chile, Valdivia, Chile.
 
